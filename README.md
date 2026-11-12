@@ -25,9 +25,13 @@ I am currently developing my practical software testing skills and preparing for
 
 ### 💻 Portfolio Projects
 
-1.[SauceDemo Manual Testing Portfolio](https://github.com/dbaloyi47/SauceDemo-Manual-Testing)
-3.[ParaBank Manual Testing Portfolio](https://github.com/dbaloyi47/ParaBank-Manual-Testing)
-4. E-commerce Application – Manual Testing
+## Manual Testing Portfolio Projects
+
+1. [SauceDemo Manual Testing Portfolio](https://github.com/dbaloyi47/SauceDemo-Manual-Testing)
+
+2. [ParaBank Manual Testing Portfolio](https://github.com/dbaloyi47/ParaBank-Manual-Testing)
+
+3. E-commerce Application – Manual Testing *(Coming Soon)*
 
 ### 🔧 Professional Background
 
